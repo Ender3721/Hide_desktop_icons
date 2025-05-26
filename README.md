@@ -4,7 +4,7 @@
 参考https://blog.csdn.net/qq_39529180/article/details/132375276  <br/>
 ，编译打包成了.exe（应用程序）文件，可以直接在win7以上系统运行  <br/>
 点击这里即可下载核心文件[https://github.com/Ender3721/桌面图标隐藏.exe](https://codeload.github.com/Ender3721/Hide_desktop_icons/zip/refs/heads/main)  <br/>
-
+解压这个包之后，其中的.exe文件执行后便会隐藏桌面图标，再执行一次便会恢复，实测在多屏幕上也可用。  
 # 优化使用体验
 推荐使用autohotkey，其是一个自由开源的编程语言，其官网提供了下载：https://www.autohotkey.com/  <br/>
 可以通过**记事本**编辑其脚本文件（后缀为.ahk），可以自己新建也可以直接下载我仓库中提供的，关于快捷调用这里有几点说明： <br/><br/>
