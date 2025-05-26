@@ -3,7 +3,7 @@
 # 核心文件源代码
 参考https://blog.csdn.net/qq_39529180/article/details/132375276  <br/>
 ，编译打包成了.exe（应用程序）文件，可以直接在win7以上系统运行  <br/>
-点击这里即可下载https://github.com/Ender3721/桌面图标隐藏.exe  <br/>
+点击这里即可下载[https://github.com/Ender3721/桌面图标隐藏.exe](https://codeload.github.com/Ender3721/Hide_desktop_icons/zip/refs/heads/main)  <br/>
 
 # 优化使用体验
 推荐使用autohotkey，其是一个自由开源的编程语言，其官网提供了下载：https://www.autohotkey.com/  <br/>
