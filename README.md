@@ -1,8 +1,9 @@
 # Hide_desktop_icons
 这是一个可以隐藏桌面图标的小应用程序的配置，我故意保留了任务栏，因为这会让程序调用方便，对我而言应用场景是直播或则录制视频，我不希望桌面上的大量图标泄露个人信息，参考高人的代码和仓库修改完成，由于我个人是一个代码小白，在这个仓库中我也会尽可能的写的直白，方便真正使用。
-# 核心文件
-参考https://blog.csdn.net/qq_39529180/article/details/132375276，编译打包成了.exe（应用程序）文件，可以直接在win7以上系统运行
-点击这里即可下载
+# 核心文件源代码
+参考https://blog.csdn.net/qq_39529180/article/details/132375276
+，编译打包成了.exe（应用程序）文件，可以直接在win7以上系统运行
+点击这里即可下载https://github.com/Ender3721/Hide_desktop_icons/blob/main/%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87%E9%9A%90%E8%97%8F.exe
 
 # 优化使用体验
 推荐使用autohotkey，其是一个自由开源的编程语言，其官网提供了下载：https://www.autohotkey.com/
