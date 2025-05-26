@@ -3,13 +3,15 @@
 # 核心文件源代码
 参考https://blog.csdn.net/qq_39529180/article/details/132375276
 ，编译打包成了.exe（应用程序）文件，可以直接在win7以上系统运行
-点击这里即可下载https://github.com/Ender3721/Hide_desktop_icons/blob/main/%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87%E9%9A%90%E8%97%8F.exe
+点击这里即可下载https://github.com/Ender3721/桌面图标隐藏.exe
 
 # 优化使用体验
 推荐使用autohotkey，其是一个自由开源的编程语言，其官网提供了下载：https://www.autohotkey.com/
 可以通过**记事本**编辑其脚本文件（后缀为.ahk），可以自己新建也可以直接下载我仓库中提供的，关于快捷调用这里有几点说明：
 **语法**
-可以在启动autohotkey后在其help files选项里查看语法![image](https://github.com/user-attachments/assets/f92b6976-64df-4c94-94fe-7db644e6a3b4)，在这里简单介绍一下我用到的部分
+可以在启动autohotkey后在其help files选项里查看语法
+![image](https://github.com/user-attachments/assets/f92b6976-64df-4c94-94fe-7db644e6a3b4)
+在这里简单介绍一下我用到的部分
 我的脚本文件为：
 
 #Requires AutoHotkey v2.0
