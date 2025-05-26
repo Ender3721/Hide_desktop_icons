@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f92b6976-64df-4c94-94fe-7db644e6a3b4)# Hide_desktop_icons
+# Hide_desktop_icons
 这是一个可以隐藏桌面图标的小应用程序的配置，我故意保留了任务栏，因为这会让程序调用方便，对我而言应用场景是直播或则录制视频，我不希望桌面上的大量图标泄露个人信息，参考高人的代码和仓库修改完成，由于我个人是一个代码小白，在这个仓库中我也会尽可能的写的直白，方便真正使用。
 # 核心文件
 参考https://blog.csdn.net/qq_39529180/article/details/132375276，编译打包成了.exe（应用程序）文件，可以直接在win7以上系统运行
@@ -8,7 +8,7 @@
 推荐使用autohotkey，其是一个自由开源的编程语言，其官网提供了下载：https://www.autohotkey.com/
 可以通过**记事本**编辑其脚本文件（后缀为.ahk），可以自己新建也可以直接下载我仓库中提供的，关于快捷调用这里有几点说明：
 **语法**
-可以在启动autohotkey后在其help files选项里查看语法，在这里简单介绍一下我用到的部分
+可以在启动autohotkey后在其help files选项里查看语法![image](https://github.com/user-attachments/assets/f92b6976-64df-4c94-94fe-7db644e6a3b4)，在这里简单介绍一下我用到的部分
 我的脚本文件为：
 
 #Requires AutoHotkey v2.0
